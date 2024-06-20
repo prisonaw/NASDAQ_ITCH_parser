@@ -1,4 +1,4 @@
-# Running VWAP calculation with ITCH 5.0 data
+# Running VWAP calculation with NASDAQ ITCH 5.0 data
 
 
 ### Output
